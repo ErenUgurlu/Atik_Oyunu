@@ -1,0 +1,19 @@
+C:\Users\HP\source\repos\NDP Proje\NDP Proje\bin\Debug\NDP Proje.exe.config
+C:\Users\HP\source\repos\NDP Proje\NDP Proje\bin\Debug\NDP Proje.exe
+C:\Users\HP\source\repos\NDP Proje\NDP Proje\bin\Debug\NDP Proje.pdb
+C:\Users\HP\source\repos\NDP Proje\NDP Proje\obj\Debug\NDP Proje.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\NDP Proje\NDP Proje\obj\Debug\NDP_Proje.Form1.resources
+C:\Users\HP\source\repos\NDP Proje\NDP Proje\obj\Debug\NDP_Proje.Properties.Resources.resources
+C:\Users\HP\source\repos\NDP Proje\NDP Proje\obj\Debug\NDP Proje.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\NDP Proje\NDP Proje\obj\Debug\NDP Proje.exe
+C:\Users\HP\source\repos\NDP Proje\NDP Proje\obj\Debug\NDP Proje.pdb
+C:\Users\ustat\Desktop\B181210082 Eren Uğurlu ndp\B181210082 Eren Uğurlu\NDP Proje\bin\Debug\NDP Proje.exe.config
+C:\Users\ustat\Desktop\B181210082 Eren Uğurlu ndp\B181210082 Eren Uğurlu\NDP Proje\bin\Debug\NDP Proje.exe
+C:\Users\ustat\Desktop\B181210082 Eren Uğurlu ndp\B181210082 Eren Uğurlu\NDP Proje\bin\Debug\NDP Proje.pdb
+C:\Users\ustat\Desktop\B181210082 Eren Uğurlu ndp\B181210082 Eren Uğurlu\NDP Proje\obj\Debug\NDP Proje.csprojAssemblyReference.cache
+C:\Users\ustat\Desktop\B181210082 Eren Uğurlu ndp\B181210082 Eren Uğurlu\NDP Proje\obj\Debug\NDP_Proje.Form1.resources
+C:\Users\ustat\Desktop\B181210082 Eren Uğurlu ndp\B181210082 Eren Uğurlu\NDP Proje\obj\Debug\NDP_Proje.Properties.Resources.resources
+C:\Users\ustat\Desktop\B181210082 Eren Uğurlu ndp\B181210082 Eren Uğurlu\NDP Proje\obj\Debug\NDP Proje.csproj.GenerateResource.cache
+C:\Users\ustat\Desktop\B181210082 Eren Uğurlu ndp\B181210082 Eren Uğurlu\NDP Proje\obj\Debug\NDP Proje.csproj.CoreCompileInputs.cache
+C:\Users\ustat\Desktop\B181210082 Eren Uğurlu ndp\B181210082 Eren Uğurlu\NDP Proje\obj\Debug\NDP Proje.exe
+C:\Users\ustat\Desktop\B181210082 Eren Uğurlu ndp\B181210082 Eren Uğurlu\NDP Proje\obj\Debug\NDP Proje.pdb
